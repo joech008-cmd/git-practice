@@ -1,3 +1,4 @@
 Hello Git
 Learning Git is fun!
 Today I published my first GitHub repository.
+Today I learned how to use GitHub Desktop.
